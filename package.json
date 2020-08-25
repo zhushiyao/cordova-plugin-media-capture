@@ -12,8 +12,7 @@
       "browser"
     ]
   },
-  "repository": "github.:apache/cordova-plugin-media-capture",
-  "bugs": "https://github.com/apache/cordova-plugin-media-capture/issues",
+  "repository": "https://github.com/zhushiyao/cordova-plugin-media-capture.git",
   "keywords": [
     "cordova",
     "media",
