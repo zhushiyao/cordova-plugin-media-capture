@@ -1,6 +1,12 @@
 
 ## fork 修改ios英文提示信息
 
+
+```
+cordova plugin add https://github.com/zhushiyao/cordova-plugin-media-capture.git
+
+```
+
 ---
 title: Media Capture
 description: Capture audio, video, and images.
