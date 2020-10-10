@@ -1,6 +1,6 @@
 {
   "name": "dfocus-fm-cordova-plugin-media-capture",
-  "version": "3.0.4-dev",
+  "version": "3.0.5",
   "description": "Cordova Media Capture Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
